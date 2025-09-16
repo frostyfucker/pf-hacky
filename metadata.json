@@ -1,0 +1,5 @@
+{
+  "name": "ProjectFlow",
+  "description": "A web-based project management application to help users organize, track, and manage their projects and tasks efficiently using a Kanban-style board and AI-powered reporting.",
+  "requestFramePermissions": []
+}
